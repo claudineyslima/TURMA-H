@@ -2,35 +2,33 @@
     margin: 0;
     padding: 0;
 }
-
 .cabecalho {
     background-color: #41AE46;
     display: flex;
     justify-content: space-between;
 }
-
 .cabecalho-intens {
-    front-size: 36px;
+    font-size: 36px;
     margin: 15px;
     display: inline-block;
+    padding-top: 20px;
 }
-
 .cabecalho-logo {
     width: 25%;
     height: 20%;
+    border-radius: 30px;
 }
-
 .formadores {
 
     background-color: #A65D53;
+    font-size: 20px;
     width: 1448px;
     height: 544px;
+    padding-top: 20px;
+    font-weight: bold;
 }
-
 .ProfessorClaudiney {
-
 color: #A65D53;
 font-size: 100px;
 text-align: center;
-
 }
